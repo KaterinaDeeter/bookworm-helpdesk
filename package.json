@@ -6,20 +6,27 @@
   "scripts": {
     "start": "node ./index.js"
   },
-
-  "engines": {
-    "node": "22.x",
-    "npm": "10.x"
+  "node-js version": {
+    "name": "example-app",
+    "engines": {
+      "node": "22.x"
+    }
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KaterinaDeeter/bookworm-helpdesk.git"
-  },
-  "keywords": [],
-  "author": "Katerina <katerinadeeter@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/KaterinaDeeter/bookworm-helpdesk/issues"
-  },
-  "homepage": "https://github.com/KaterinaDeeter/bookworm-helpdesk#readme"
-}
+  "npm version": {
+    "name": "example-app",
+    "engines": {
+      "npm": "10.x"
+    }
+   },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/KaterinaDeeter/bookworm-helpdesk.git"
+    },
+    "keywords": [],
+    "author": "Katerina <katerinadeeter@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/KaterinaDeeter/bookworm-helpdesk/issues"
+    },
+    "homepage": "https://github.com/KaterinaDeeter/bookworm-helpdesk#readme"
+  }
