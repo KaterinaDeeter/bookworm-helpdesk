@@ -1,7 +1,6 @@
 {
   "name": "bookworm-helpdesk",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js"
@@ -18,15 +17,18 @@
       "npm": "10.x"
     }
    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/KaterinaDeeter/bookworm-helpdesk.git"
-    },
-    "keywords": [],
-    "author": "Katerina <katerinadeeter@gmail.com>",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/KaterinaDeeter/bookworm-helpdesk/issues"
-    },
-    "homepage": "https://github.com/KaterinaDeeter/bookworm-helpdesk#readme"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaterinaDeeter/bookworm-helpdesk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaterinaDeeter/bookworm-helpdesk/issues"
+  },
+  "homepage": "https://github.com/KaterinaDeeter/bookworm-helpdesk#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
   }
+}
