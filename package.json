@@ -6,17 +6,9 @@
   "scripts": {
     "start": "node ./index.js"
   },
-  "node-js version" : {
-    "name": "example-app",
-    "engines": {
-      "node": "22.x"
-    }
-  },
-  "npm version": {
-    "name": "example-app",
-    "engines": {
-      "npm": "10.x"
-    }
+  "engines": {
+    "node": "22.x",
+    "npm": "10.x"
   },
   "repository": {
     "type": "git",
