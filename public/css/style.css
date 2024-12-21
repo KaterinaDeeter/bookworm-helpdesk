@@ -1,20 +1,19 @@
-.headerSection
-{
-    background-color : #d4d4c4;
-}
-.About
-{
+.headerSection {
+    background-color: #d4d4c4;
+};
+
+.About {
     background-color: #A8B592;
-}
-.Upcoming
-{
-    background-color : #d4d4c4;
-}
-.Guides
-{
+};
+
+.Upcoming {
+    background-color: #d4d4c4;
+};
+
+.Guides {
     background-color: #A8B592;
-}
-.Contact
-{
+};
+
+.Contact {
     background-color: #6C9583;
-}
+};
